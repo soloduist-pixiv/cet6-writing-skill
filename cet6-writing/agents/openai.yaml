@@ -1,0 +1,4 @@
+interface:
+  display_name: "六级英语写作教练"
+  short_description: "批改、润色与撰写六级作文，检查题目要求并提供分层纠错与学习建议"
+  default_prompt: "请用 $cet6-writing 根据完整题目批改或撰写六级作文，检查指定开头和字数，并用中文解释关键修改。"
